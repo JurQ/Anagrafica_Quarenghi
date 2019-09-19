@@ -1,0 +1,11 @@
+C:\Users\Juri\source\repos\Anagrafica_Quarenghi\Anagrafica_Quarenghi\bin\Debug\Anagrafica_Quarenghi.exe.config
+C:\Users\Juri\source\repos\Anagrafica_Quarenghi\Anagrafica_Quarenghi\bin\Debug\Anagrafica_Quarenghi.exe
+C:\Users\Juri\source\repos\Anagrafica_Quarenghi\Anagrafica_Quarenghi\bin\Debug\Anagrafica_Quarenghi.pdb
+C:\Users\Juri\source\repos\Anagrafica_Quarenghi\Anagrafica_Quarenghi\obj\Debug\Anagrafica_Quarenghi.csprojAssemblyReference.cache
+C:\Users\Juri\source\repos\Anagrafica_Quarenghi\Anagrafica_Quarenghi\obj\Debug\Anagrafica_Quarenghi.Properties.Resources.resources
+C:\Users\Juri\source\repos\Anagrafica_Quarenghi\Anagrafica_Quarenghi\obj\Debug\Anagrafica_Quarenghi.csproj.GenerateResource.cache
+C:\Users\Juri\source\repos\Anagrafica_Quarenghi\Anagrafica_Quarenghi\obj\Debug\Anagrafica_Quarenghi.csproj.CoreCompileInputs.cache
+C:\Users\Juri\source\repos\Anagrafica_Quarenghi\Anagrafica_Quarenghi\obj\Debug\Anagrafica_Quarenghi.exe
+C:\Users\Juri\source\repos\Anagrafica_Quarenghi\Anagrafica_Quarenghi\obj\Debug\Anagrafica_Quarenghi.pdb
+C:\Users\Juri\source\repos\Anagrafica_Quarenghi\Anagrafica_Quarenghi\obj\Debug\Anagrafica_Quarenghi.Homepage.resources
+C:\Users\Juri\source\repos\Anagrafica_Quarenghi\Anagrafica_Quarenghi\obj\Debug\Anagrafica_Quarenghi.CreazioneUtente.resources
